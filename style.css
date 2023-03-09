@@ -1,7 +1,7 @@
 /* Set the font family and background color for the entire website */
 body {
   font-family: Arial, sans-serif;
-  background-color: linear-gradient(to bottom, #161616, #0077ff);
+  background: linear-gradient(to bottom, #161616, #0077ff);
 }
 
 /* Style the header section */
