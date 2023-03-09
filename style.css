@@ -1,13 +1,13 @@
 /* Set the font family and background color for the entire website */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: #3e779c;
   }
   
   /* Style the header section */
   header {
     background-color: #333;
-    color: #fff;
+    color: #87779c;
     padding: 20px;
     text-align: center;
   }
@@ -18,7 +18,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #555;
-    color: #fff;
+    color: #111e5a;
     padding: 10px;
   }
   
@@ -34,7 +34,7 @@ body {
   }
   
   nav a {
-    color: #fff;
+    color: #2a165a;
     text-decoration: none;
   }
   
@@ -48,7 +48,7 @@ body {
   /* Style the footer section */
   footer {
     background-color: #333;
-    color: #fff;
+    color: #192f6b;
     padding: 10px;
     text-align: center;
   }
