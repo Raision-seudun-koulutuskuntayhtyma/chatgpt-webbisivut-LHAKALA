@@ -7,7 +7,7 @@ body {
   /* Style the header section */
   header {
     background-color: #333;
-    color: #87779c;
+    color: #efe2ff;
     padding: 20px;
     text-align: center;
   }
@@ -47,7 +47,7 @@ body {
   
   /* Style the footer section */
   footer {
-    background-color: #333;
+    background-color: #a8a8a8;
     color: #ffffff;
     padding: 10px;
     text-align: center;
