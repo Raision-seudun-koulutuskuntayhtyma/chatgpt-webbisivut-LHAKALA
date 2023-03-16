@@ -2,6 +2,7 @@
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(to bottom, #0084c2, #0bbaff);
+  background-attachment: fixed;
   height: 100%;
   width: 100%;
   margin: 0;
