@@ -46,19 +46,19 @@ nav a {
 
 /* Style the main content area */
 main {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   padding: 20px;
 }
 
 /* Style the footer section */
 footer {
+  width: 100%;
   position: absolute;
   bottom: 0;
-  width: 150%;
   height: 100px;
   background-color: #1f1f1f;
   color: #ffffff;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
